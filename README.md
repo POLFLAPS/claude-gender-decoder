@@ -22,13 +22,13 @@ Clone into your skills directory:
 
 ```bash
 git clone https://github.com/POLFLAPS/claude-gender-decoder.git \
-  ~/.claude/skills/claude-gender-decoder
+  ~/.claude/skills/gender-decoder
 ```
 
 Then in Claude Code:
 
 ```
-/claude-gender-decoder paste-or-point-at-your-JD
+/gender-decoder paste-or-point-at-your-JD
 ```
 
 Claude runs the decoder, reports the verdict, reviews the flagged words in

@@ -1,5 +1,5 @@
 ---
-name: claude-gender-decoder
+name: gender-decoder
 description: Use when checking or fixing a job ad, job description (JD), careers page, recruiter outreach, or any hiring copy for subtly gender-coded language. Detects masculine-coded and feminine-coded wording (Gaucher, Friesen & Kay 2011), returns a verdict from strongly masculine-coded to strongly feminine-coded, then proposes neutral replacements and a balanced rewrite. Keywords: gender-coded, gendered wording, biased job ad, inclusive hiring, gender decoder.
 ---
 
